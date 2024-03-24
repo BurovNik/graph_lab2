@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c3e81f7-a9d7-429e-819f-5450186e9513" name="Changes" comment="dijkstra algorithm starts work. problem fixed">
+    <list default="true" id="0c3e81f7-a9d7-429e-819f-5450186e9513" name="Changes" comment="dependence of the algorithm's running time on  the number of vertices added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dijkstra_algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/dijkstra_algorithm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/draw_graph.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711303644649</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dependence of the algorithm's running time on  the number of vertices added">
+      <created>1711305280149</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711305280149</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +113,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="right square grid ready" />
     <MESSAGE value="dijkstra algorithm starts work. problem fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="dijkstra algorithm starts work. problem fixed" />
+    <MESSAGE value="dependence of the algorithm's running time on  the number of vertices added" />
+    <option name="LAST_COMMIT_MESSAGE" value="dependence of the algorithm's running time on  the number of vertices added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
