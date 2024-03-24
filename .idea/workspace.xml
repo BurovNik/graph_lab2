@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c3e81f7-a9d7-429e-819f-5450186e9513" name="Changes" comment="right square grid ready">
-      <change beforePath="$PROJECT_DIR$/.idea/graph_lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/graph_lab2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0c3e81f7-a9d7-429e-819f-5450186e9513" name="Changes" comment="dijkstra algorithm starts work. problem fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dijkstra_algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/dijkstra_algorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/draw_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/draw_graph.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710995314213</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dijkstra algorithm starts work. problem fixed">
+      <created>1711303644649</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711303644649</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,17 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="right square grid ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="right square grid ready" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/dijkstra_algorithm.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="dijkstra algorithm starts work. problem fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="dijkstra algorithm starts work. problem fixed" />
   </component>
 </project>

@@ -2,6 +2,7 @@ import igraph as ig
 import matplotlib.pyplot as plt
 
 
+
 def draw_graph(size: int, edges: list, weights: list, layout: str):
     My_G = ig.Graph()
     My_G.add_vertices(size)

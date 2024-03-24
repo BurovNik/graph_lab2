@@ -5,7 +5,6 @@ def dijkstra_algorithm(graph: list, start_node: int, end_node: int):
     shortest_path = {node : sys.maxsize for node in range(len(graph))}
     # заполнить значения для всех вершин бесконечностью, кроме первой
     previous_nodes = {node : [] for node in range(len(graph))}
-    print(previous_nodes)
     shortest_path[start_node] = 0
     previous_nodes[start_node] = [start_node]
 
