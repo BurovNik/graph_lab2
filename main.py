@@ -1,5 +1,7 @@
 import random
+import sys
 from draw_graph import draw_graph
+from dijkstra_algorithm import dijkstra_algorithm
 
 
 print("Hello World")
@@ -44,3 +46,8 @@ print("------------------------")
 for i in range(M**2):
     print(Matrix[i])
 draw_graph(M**2, edges, weights, layout="grid")
+
+start_node = 0
+end_node = 11
+length, path = dijkstra_algorithm(Matrix, start_node, end_node)
+print(f'Длина пути от {start_node} до {end_node} равна {length}\n путь выглядит так: {path}')
